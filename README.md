@@ -7,3 +7,4 @@ A Python3 curses-based simple [kwak.io](https://kwak.io) user interface.
 
 - `/quit`
 - `/join <channel>`
+- `/list`
